@@ -8,7 +8,8 @@ The 'Calculator' Class:
   - add(x, y) - Addition
   - subtract(x, y) - Subtraction
   - multiply(x, y) - Multiplication
-  - divide(x, y) - Division with error handling for division by zero
+  - divide(x, y) - Division 
+  - exponent(x, y) - Exponentiation (x raised to the power of y)
 
     
 Testing:
@@ -20,8 +21,7 @@ Testing:
 Tools Used:
  - Python
  - Unittest Library
- 
 
   
 
-- 
+  
