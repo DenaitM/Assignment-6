@@ -1,5 +1,5 @@
 # Assignment-6
-By: Denait Mehari
+Author: Denait Mehari
 
 Description:
 This assignment is a practice for 'Test Driven Development (TDD)'. It uses TDD to create a simple calculator in python. The whole purpose of this assignment is to practice TDD by writing simple test, failing, write a small simple code to make the test pass then refactor.
